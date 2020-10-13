@@ -121,5 +121,4 @@ console.log('\n');
 keys.forEach((key) => {
   console.log(`${key} is a ${typeof bike[key]}`);
   console.log('\n');
-
 });
